@@ -1,0 +1,95 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: we-will-call-you\n"
+"POT-Creation-Date: 2015-11-14 18:00+0100\n"
+"PO-Revision-Date: 2015-11-14 18:00+0100\n"
+"Last-Translator: Víctor J. Chamorro <victor@ipdea.com>\n"
+"Language-Team:  <info@teenvio.com>\n"
+"Language: es_ES\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.6.10\n"
+"X-Poedit-Basepath: ../\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;__#\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../we-will-call-you/we-will-call-you.php:23
+msgid "name"
+msgstr "Nombre"
+
+#: ../we-will-call-you/we-will-call-you.php:24
+msgid "email"
+msgstr "Email"
+
+#: ../we-will-call-you/we-will-call-you.php:25
+msgid "phone"
+msgstr "Teléfono"
+
+#: ../we-will-call-you/we-will-call-you.php:26
+msgid "send"
+msgstr "Enviar"
+
+#: ../we-will-call-you/we-will-call-you.php:29
+msgid "conditions"
+msgstr "política de privacidad"
+
+#: ../we-will-call-you/we-will-call-you.php:30
+msgid "acept the"
+msgstr "Acepto la"
+
+#: ../we-will-call-you/we-will-call-you.php:31
+msgid "send_thanks"
+msgstr ""
+"Gracias! Nos pondremos en contacto en cuando podamos. (Llamadas dentro del "
+"horario de 9:00 a 18:00h CET)"
+
+#: ../we-will-call-you/we-will-call-you.php:54
+msgid "save"
+msgstr "Guardar"
+
+#: ../we-will-call-you/we-will-call-you.php:55
+msgid "title"
+msgstr "Título"
+
+#: ../we-will-call-you/we-will-call-you.php:56
+msgid "action"
+msgstr "Acción"
+
+#: ../we-will-call-you/we-will-call-you.php:57
+msgid "send email"
+msgstr "Enviar por correo electrónico"
+
+#: ../we-will-call-you/we-will-call-you.php:58
+msgid "save into external app"
+msgstr "Guardar en aplicación externa"
+
+#: ../we-will-call-you/we-will-call-you.php:59
+msgid "send email and save into external app"
+msgstr "Enviar por correo electrónico y guardar en aplicación externa"
+
+#: ../we-will-call-you/we-will-call-you.php:60
+msgid "conditions_url"
+msgstr "Dirección url de la política de privacidad"
+
+#: ../we-will-call-you/we-will-call-you.php:61
+msgid "email_alert"
+msgstr "Dirección de email para los avisos"
+
+#: ../we-will-call-you/we-will-call-you.php:62
+msgid "teenvio_user"
+msgstr "Teenvio - usuario"
+
+#: ../we-will-call-you/we-will-call-you.php:63
+msgid "teenvio_acount"
+msgstr "Teenvio - Cuenta/nombre del plan"
+
+#: ../we-will-call-you/we-will-call-you.php:64
+msgid "teenvio_pass"
+msgstr "Teenvio - contraseña"
+
+#: ../we-will-call-you/we-will-call-you.php:65
+msgid "exclude_path"
+msgstr "Ruta excluida"

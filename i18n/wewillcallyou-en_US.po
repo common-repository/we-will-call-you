@@ -1,0 +1,93 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: we-will-call-you\n"
+"POT-Creation-Date: 2015-11-14 18:00+0100\n"
+"PO-Revision-Date: 2015-11-16 10:45+0100\n"
+"Last-Translator: Víctor J. Chamorro <victor@ipdea.com>\n"
+"Language-Team:  <info@teenvio.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.6.10\n"
+"X-Poedit-Basepath: ../\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;__#\n"
+"Language: en_US\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../we-will-call-you/we-will-call-you.php:23
+msgid "name"
+msgstr "Name"
+
+#: ../we-will-call-you/we-will-call-you.php:24
+msgid "email"
+msgstr "email"
+
+#: ../we-will-call-you/we-will-call-you.php:25
+msgid "phone"
+msgstr "Phone"
+
+#: ../we-will-call-you/we-will-call-you.php:26
+msgid "send"
+msgstr "Send"
+
+#: ../we-will-call-you/we-will-call-you.php:29
+msgid "conditions"
+msgstr "conditions"
+
+#: ../we-will-call-you/we-will-call-you.php:30
+msgid "acept the"
+msgstr "Acept the"
+
+#: ../we-will-call-you/we-will-call-you.php:31
+msgid "send_thanks"
+msgstr "Thanks!"
+
+#: ../we-will-call-you/we-will-call-you.php:54
+msgid "save"
+msgstr "Save"
+
+#: ../we-will-call-you/we-will-call-you.php:55
+msgid "title"
+msgstr "Title"
+
+#: ../we-will-call-you/we-will-call-you.php:56
+msgid "action"
+msgstr "Action"
+
+#: ../we-will-call-you/we-will-call-you.php:57
+msgid "send email"
+msgstr "Send email"
+
+#: ../we-will-call-you/we-will-call-you.php:58
+msgid "save into external app"
+msgstr ""
+
+#: ../we-will-call-you/we-will-call-you.php:59
+msgid "send email and save into external app"
+msgstr ""
+
+#: ../we-will-call-you/we-will-call-you.php:60
+msgid "conditions_url"
+msgstr "Conditions URL"
+
+#: ../we-will-call-you/we-will-call-you.php:61
+msgid "email_alert"
+msgstr "Email Alert"
+
+#: ../we-will-call-you/we-will-call-you.php:62
+msgid "teenvio_user"
+msgstr ""
+
+#: ../we-will-call-you/we-will-call-you.php:63
+msgid "teenvio_acount"
+msgstr ""
+
+#: ../we-will-call-you/we-will-call-you.php:64
+msgid "teenvio_pass"
+msgstr ""
+
+#: ../we-will-call-you/we-will-call-you.php:65
+msgid "exclude_path"
+msgstr "Exclude pages containing in the url"
